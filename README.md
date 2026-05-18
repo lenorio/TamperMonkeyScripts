@@ -1,2 +1,3 @@
 # TamperMonkeyScripts
-Scripts for tampermonkey
+
+Этот репозиторий — хранилище моих скриптов для Tampermonkey, которые упрощают работу в интернете.
