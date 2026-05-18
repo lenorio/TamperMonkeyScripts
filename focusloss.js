@@ -5,6 +5,12 @@
 // @description  Абсолютная защита с проверкой relatedTarget + Детектор
 // @author       lenorio
 // @match        *://*/*
+// @exclude      *://*.hcaptcha.com/*
+// @exclude      *://hcaptcha.com/*
+// @exclude      *://*.recaptcha.net/*
+// @exclude      *://www.google.com/recaptcha/*
+// @exclude      *://challenges.cloudflare.com/*
+// @exclude      *://turnstile.cloudflare.com/*
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
